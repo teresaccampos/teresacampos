@@ -3,10 +3,10 @@
 ## Sobre mim
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.
-- 🎨 Procuro colaborar na criação de interfaces com minha experiência prévia em Design.
-- 🌱 Aprendendo mais sobre Desenvolvimento Web.
+-  Explorando novas tecnologias e desenvolvendo soluções de software.
+-  Estudando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.
+-  Procuro colaborar na criação de interfaces com minha experiência prévia em Design.
+-  Aprendendo mais sobre Desenvolvimento Web.
 
 
 ## Minhas Skills
