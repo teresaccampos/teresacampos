@@ -5,6 +5,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.
+- 🎨 Procuro colaborar na criação de interfaces com minha experiência prévia em Design.
 - 🌱 Aprendendo mais sobre Desenvolvimento Web.
 
 
