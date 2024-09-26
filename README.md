@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Teresa. Bem-vindo ao meu perfil!
+## 💜 Bem-vindo ao meu perfil!
 
 ## Sobre mim
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
