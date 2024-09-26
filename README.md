@@ -7,6 +7,7 @@
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.
 - 🌱 Aprendendo mais sobre Desenvolvimento Web.
 
+
 ## Minhas Skills
 
 **Linguagens de programação e dados**
