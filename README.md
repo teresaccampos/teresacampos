@@ -8,6 +8,7 @@
 
 ## Minhas Skills
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 **Aplicações e dados**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -33,6 +34,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teresacamposdev/)](https://www.linkedin.com/in/teresacamposdev/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teresacampos42@gmail.com)](mailto:teresacampos42@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-teresacamposdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teresacamposdev/)](https://www.linkedin.com/in/teresacamposdev/)
+[![Gmail Badge](https://img.shields.io/badge/-teresacampos42@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teresacampos42@gmail.com)](mailto:teresacampos42@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/teresaccampos)
