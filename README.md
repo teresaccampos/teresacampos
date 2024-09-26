@@ -11,6 +11,7 @@
 
 **Linguagens de programação e dados**
 
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,8 +30,10 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <br/>
 
+
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-teresacamposdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teresacamposdev/)](https://www.linkedin.com/in/teresacamposdev/)
-[![Gmail Badge](https://img.shields.io/badge/-teresacampos42@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teresacampos42@gmail.com)](mailto:teresacampos42@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/teresaccampos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teresacamposdev/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:teresacampos42@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/thaknowsss/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teresaccampos)
